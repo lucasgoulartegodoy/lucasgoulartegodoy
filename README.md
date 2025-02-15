@@ -10,7 +10,7 @@ I am passionate about technology, innovation, and problem-solving, and I thrive 
 
 Here are some of my work examples:
 
-- **[User Stories](https://github.com/lucasgoulartegodoy/UserStroyExample.pdf)**: User stories for different products.
+- **[User Stories](https://github.com/lucasgoulartegodoy/UserStory)**: User stories for different products.
 - **[Roadmap](https://github.com/lucasgoulartegodoy/RoadMapExample)**: Strategic planning and roadmap examples.
 - **[System Manual](https://github.com/lucasgoulartegodoy/PartManualExample)**: System manual for software projects.
 
