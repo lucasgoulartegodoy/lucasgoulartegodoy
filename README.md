@@ -13,6 +13,7 @@ Here are some of my work examples:
 - **[User Stories](https://github.com/lucasgoulartegodoy/UserStory)**: User stories for different products.
 - **[Roadmap](https://github.com/lucasgoulartegodoy/RoadMap)**: Strategic planning and roadmap examples.
 - **[System Manual](https://github.com/lucasgoulartegodoy/SystemManual)**: System manual for software projects.
+- **[Example of My Work on video](https://drive.google.com/file/d/1yw7SADayZ4w2ae1Am-VS25DKsvdWiy85/view?usp=sharing)**: See examples of my work.
 
 <p align="left">
     <a href="https://github.com/lucasgoulartegodoy?tab=repositories&sort=stargazers">
